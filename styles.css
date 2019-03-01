@@ -1,0 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
+header nav > * + * {
+    margin-left: .5rem;
+}
